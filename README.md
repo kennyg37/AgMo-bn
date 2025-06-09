@@ -18,8 +18,8 @@ This project implements a Convolutional Neural Network (CNN) to classify maize l
 6. Access Swagger UI at `http://localhost:8000/docs` for testing.
 
 ## Designs
-- [Swagger UI Screenshot](path/to/screenshot.png) (showing API endpoint)
-- [Confusion Matrix Visualization](path/to/confusion_matrix.png)
+- [Swagger UI Screenshot](assets/swagger.png) (showing API endpoint)
+- [Confusion Matrix Visualization](assets/confusion.png)
 
 ## Deployment Plan
 The project is deployed as a FastAPI API with Swagger UI for real-time maize leaf disease prediction. Future steps include containerizing with Docker, hosting on a cloud platform like AWS or Heroku, and integrating with a mobile/web frontend for broader accessibility.
